@@ -30,6 +30,6 @@
          printf("Error! Invalid Operator.");
      }
 
-
+  return 0;
 
  }
